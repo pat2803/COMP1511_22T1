@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Program to demo what strings are
 // Patrick Chambers (z5264081), 30/03/2
 

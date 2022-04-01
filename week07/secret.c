@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // A secret function. What does it do? No one knows. 
 // Patrick Chambers (z5264081), 30/03/2
 

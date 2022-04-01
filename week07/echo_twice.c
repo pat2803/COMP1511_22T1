@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Program that takes in inputs until the input is ended and prints them out
 // twice
 // Patrick Chambers (z5264081), 30/03/2
