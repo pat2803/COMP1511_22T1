@@ -21,7 +21,7 @@ int main(void) {
 
     // Uncomment this line to fix the errors ('\0' lets the computer know when
     // the string has ended)
-    string_1[5] = '\0';
+    // string_1[5] = '\0';
 
     printf("String 1: ");
     printf("%s\n", string_1);
