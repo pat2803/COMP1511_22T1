@@ -52,6 +52,8 @@ void do_add(struct list *stack, char *data) {
     printf("Added: %s", data);
 }
 
+// Eat a pancake by removing the top pancake from the stack
+// Takes in the pancake stack
 void do_eat(struct list *stack) {
     struct node *single_pancake = pop_front(stack);
     printf("The customer has eaten %s", single_pancake->data);
