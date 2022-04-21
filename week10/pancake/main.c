@@ -23,8 +23,6 @@ int main(void) {
 void handle_command(struct list *pancake, char command) {
     char extra_data[MAX_STR_LENGTH];
 
-    // TODO: Finish this function. Add more command conditions!
-    //
     // Important commands:
     // - 'a' <name>: place new pancake onto pancake stack
     // - 'e':        eat top pancake
